@@ -97,7 +97,7 @@ Licensed to the Apache Software Foundation (ASF)
   <servers>
   
 	<server>
-		<id>snapshots</id>
+		<id>nexus</id>
 		<username>admin</username>
 		<password>admin123</password>
 	</server>
