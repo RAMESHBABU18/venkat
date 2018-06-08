@@ -151,7 +151,7 @@ Licensed to the Apache Software Foundation (ASF)
 		<id>Repo</id>
 		<mirrorOf>*</mirrorOf>
 		<name>Repository</name>
-		<url>http://ec2-52-221-179-243.ap-southeast-1.compute.amazonaws.com:8081/nexus/content/groups/public/</url>
+		<url>http://repo.maven.apache.org/maven2/</url>
 	</mirror>
 
 	<!--
