@@ -148,6 +148,7 @@ under the License.
     <mirror>
       <id>snapshots</id>
             <name>snapshots</name>
+			<mirrorOf>*</mirrorOf>
       <url>http://ec2-52-221-179-243.ap-southeast-1.compute.amazonaws.com:8081/nexus/content/repositories/snapshots</url>
     </mirror>
 
