@@ -124,7 +124,7 @@ under the License.
     -->
 
     <server>
-      <id>nexus</id>
+      <id>snapshots</id>
       <username>admin</username>
               <password>admin123</password>
       
