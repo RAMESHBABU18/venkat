@@ -119,11 +119,10 @@
         </plugins>
     </build>
     <name>elasticSearchWrapper</name>
-    <distributionManagement>
-  
+   <distributionManagement>
+  <snapshotRepository>
     <id>snapshots</id>
-	<name>RepositoryProxySnap</name>
     <url>http://ec2-52-221-179-243.ap-southeast-1.compute.amazonaws.com:8081/nexus/content/repositories/snapshots</url>
- 
+  </snapshotRepository>
 </distributionManagement>
 </project>
