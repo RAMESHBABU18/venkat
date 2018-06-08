@@ -120,9 +120,9 @@
     </build>
     <name>elasticSearchWrapper</name>
 <distributionManagement>
-    <repository>
-        <id>nexus</id>
-        <url>http://ec2-52-221-179-243.ap-southeast-1.compute.amazonaws.com:8081/nexus/content/repositories/Nexus/</url>
-    </repository>
+  <snapshotRepository>
+    <id>Nexus</id>
+    <url>http://ec2-52-221-179-243.ap-southeast-1.compute.amazonaws.com:8081/nexus/content/repositories/Nexus</url>
+  </snapshotRepository>
 </distributionManagement>
 </project>
